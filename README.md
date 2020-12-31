@@ -1,5 +1,3 @@
-# UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning
-
 ![UNIMO](paper.png)
 
 ![UNIMO](UnifModal.png)
