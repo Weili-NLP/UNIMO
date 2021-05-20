@@ -1,4 +1,5 @@
 ## Our paper is public at: https://arxiv.org/pdf/2012.15409.pdf
+The repo of UNIMO has been moved to https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO
 
 ![UNIMO](paper.png)
 
